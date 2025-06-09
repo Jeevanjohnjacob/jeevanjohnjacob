@@ -1,15 +1,15 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Jeevan John Jacob Banner" width="100%" />
+  <img src="https://your-image-link.com/banner.png" alt="Jeevan John Jacob Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <b>Jeevan John Jacob</b></h1>
+<h1 align="center" style="color:#4A90E2;">👋 Hi, I'm <span style="color:#D35400;">Jeevan John Jacob</span></h1>
 
-<p align="center">
+<p align="center" style="font-size:18px; color:#34495E;">
   🎓 <b>MTech in Data Science</b> @ Amrita School of Computing<br/>
   🧠 Passionate about <b>AI, Machine Learning & Computer Vision</b><br/>
-  🚀 Working on <b>Smart City Solutions & Blockchain-Integrated Systems</b><br/>
-  📫 Connect with me on <a href="https://linkedin.com/in/jeevan-john-jacob-506505210" target="_blank">LinkedIn</a>
+  🚀 Building <b>Smart City & Blockchain</b> solutions for tomorrow<br/>
+  📫 <a href="https://linkedin.com/in/jeevan-john-jacob-506505210" style="color:#2980B9;">Connect with me on LinkedIn</a>
 </p>
 
 ---
@@ -29,31 +29,30 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeevanjohnjacob&show_icons=true&theme=radical" alt="Jeevan's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanjohnjacob&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeevanjohnjacob&show_icons=true&theme=dark" alt="Jeevan's GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanjohnjacob&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🚀 Projects & Contributions
 
-- 🔭 Currently working on **Smart City IoT Integration** and **Blockchain-Enabled Crop Management**  
-- 🌱 Exploring **Advanced Computer Vision for Real-Time Fire Detection**  
-- 👯 Open to collaborate on **Machine Learning and Blockchain Projects**  
+> 💡 <b>Current Work:</b> Smart City IoT Integration & Blockchain Crop Management  
+> 🌱 Exploring advanced Computer Vision techniques for real-time fire detection  
+> 🤝 Open to collaborate on AI, Blockchain, and IoT projects  
 
 ---
 
 ## 🏅 Certifications & Learning
 
-- Deep Learning Specialization — Coursera  
-- TensorFlow Developer Certificate  
-- Certified Blockchain Expert  
+- 🎓 Deep Learning Specialization — Coursera  
+- 📜 TensorFlow Developer Certificate  
+- 🛡️ Certified Blockchain Expert  
 
 ---
 
-> <p align="center" style="font-style: italic; font-weight: bold;">
-> "Innovation distinguishes between a leader and a follower."  
-> — Steve Jobs
+> <p align="center" style="font-style: italic; color:#7f8c8d;">
+> "Innovation distinguishes between a leader and a follower." — Steve Jobs
 > </p>
 
 ---
@@ -72,6 +71,6 @@
 
 ---
 
-<p align="center">
-  Made with ❤️ by Jeevan John Jacob
+<p align="center" style="color:#95a5a6;">
+  Made with ❤️ by <b>Jeevan John Jacob</b>
 </p>
