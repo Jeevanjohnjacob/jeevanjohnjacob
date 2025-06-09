@@ -3,10 +3,11 @@
 
 # Hi 👋, I'm Jeevan John Jacob
 
-🎓 MTech Data Science @ Amrita School of Computing  
-💻 Passionate about AI, ML, and Computer Vision  
-🌱 Currently working on smart city and blockchain-integrated projects  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile)
+🎓 MTech in Data Science @ Amrita School of Computing  
+🧠 Passionate about AI, Machine Learning & Computer Vision  
+🚀 Working on smart city solutions & blockchain-integrated systems  
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/jeevan-john-jacob-506505210)
+
 
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
