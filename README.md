@@ -1,6 +1,8 @@
-<!-- Banner Image -->
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Jeevan John Jacob Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHJaAFo3DLLmw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709138266645?e=1755129600&v=beta&t=k5e4NfSFkE8BTPFGH3vZpD6D4m4FqSh2fO6S1fJ_QJM" 
+       alt="Jeevan John Jacob Banner" 
+       width="100%" 
+       style="border-radius: 10px;" />
 </p>
 
 <h1 align="center" style="color:#4A90E2;">👋 Hi, I'm <span style="color:#D35400;">Jeevan John Jacob</span></h1>
