@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHJaAFo3DLLmw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709138266645?e=1755129600&v=beta&t=k5e4NfSFkE8BTPFGH3vZpD6D4m4FqSh2fO6S1fJ_QJM"
-       alt="Jeevan John Jacob — Banner"
-       width="100%"
-       style="border-radius:12px;" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jeevan%20John%20Jacob&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Computer%20Vision%20%7C%20Embedded%20Linux%20%7C%20Healthcare%20Tech&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 <h1 align="center">Jeevan John Jacob — Personal Portfolio</h1>
 
@@ -189,3 +184,5 @@ I'm a **Software Engineer Intern at GE Healthcare (Patient Care Solutions)** in 
 <p align="center"><i>"The best way to predict the future is to invent it." — Alan Kay</i></p>
 
 <p align="center">Made with ❤️ by <b>Jeevan John Jacob</b> · Bengaluru, India</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
